@@ -45,15 +45,15 @@
     [
         "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura",
         {
+            "state": "u",
             "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 238,
             "modifiedTime": 1536732226000,
             "changeTime": 1536732226000,
-            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5",
-            "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": false
+            "isWorkspace": false,
+            "contentHash": "ca2863197186dbf70973f8b8e7b821fcb1e043e5"
         }
     ],
     [
@@ -520,9 +520,9 @@
             "isDirectory": false,
             "isMetadataFile": false,
             "size": 543,
-            "modifiedTime": 1536732528000,
-            "changeTime": 1536732528000,
-            "contentHash": "744759611f8a2e3b87c28ffcffb5d9cbc3c97cba"
+            "modifiedTime": 1536732320000,
+            "changeTime": 1536732320000,
+            "contentHash": "39e4490b510ab89ac345da221775eb399891c7fc"
         }
     ],
     [
@@ -580,14 +580,14 @@
     [
         "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 395,
             "modifiedTime": 1536732375000,
             "changeTime": 1536732375000,
-            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "57b30f0b559317b4566fd3691c83f3439ecdc073"
         }
     ],
     [
@@ -970,14 +970,14 @@
     [
         "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
         {
+            "state": "u",
             "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 330,
             "modifiedTime": 1536732398000,
             "changeTime": 1536732398000,
-            "contentHash": "9fadcb465f3944d604168423683b8f72045a9b9a",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "9fadcb465f3944d604168423683b8f72045a9b9a"
         }
     ],
     [
@@ -1035,14 +1035,14 @@
     [
         "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
         {
+            "state": "u",
             "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 794,
             "modifiedTime": 1536732418000,
             "changeTime": 1536732418000,
-            "contentHash": "2f8153e8885eaa1e4defa101080e4921b905975c",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "2f8153e8885eaa1e4defa101080e4921b905975c"
         }
     ],
     [
@@ -1074,40 +1074,40 @@
     [
         "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded",
         {
+            "state": "u",
             "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 136,
             "modifiedTime": 1536732226000,
             "changeTime": 1536732226000,
-            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "4bba9f5fa252e1cd21062d694a0425e2246f27ae"
         }
     ],
     [
         "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
         {
+            "state": "u",
             "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
             "isDirectory": false,
+            "isMetadataFile": false,
             "size": 100,
             "modifiedTime": 1536732249000,
             "changeTime": 1536732249000,
-            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4"
         }
     ],
     [
         "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/marlisebriedenhann/Repositories/sfdx/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 242,
             "modifiedTime": 1536732226000,
             "changeTime": 1536732226000,
-            "contentHash": "cec1196c308ccd6bc750071048cc217eb2543ac8",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "cec1196c308ccd6bc750071048cc217eb2543ac8"
         }
     ]
 ]
